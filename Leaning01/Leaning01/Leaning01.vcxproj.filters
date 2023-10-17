@@ -24,5 +24,14 @@
     <ClCompile Include="문제풀이.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="사칙연산.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="증감 연산자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="연산자.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
