@@ -1,2 +1,4 @@
-﻿  연산자.c
+﻿  Programming exercises2.c
+C:\Users\user\source\repos\Leaning01\Leaning01\Programming exercises2.c(62): warning C4716: 'two': 값을 반환해야 합니다.
+C:\Users\user\source\repos\Leaning01\Leaning01\Programming exercises2.c(58): warning C4716: 'one_three': 값을 반환해야 합니다.
   Leaning01.vcxproj -> C:\Users\user\source\repos\Leaning01\x64\Debug\Leaning01.exe
