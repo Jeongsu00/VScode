@@ -127,8 +127,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="10진수_8진수,16진수_변환_출력법.c" />
+    <ClCompile Include="char.c" />
+    <ClCompile Include="float,scanf사용하기.c" />
     <ClCompile Include="Hello World.c" />
     <ClCompile Include="Programming exercises2.c" />
+    <ClCompile Include="short_long_longlong_unsigned.c" />
     <ClCompile Include="문제풀이.c" />
     <ClCompile Include="사칙연산.c" />
     <ClCompile Include="연산자.c" />

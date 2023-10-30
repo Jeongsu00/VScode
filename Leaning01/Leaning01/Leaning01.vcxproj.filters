@@ -36,5 +36,17 @@
     <ClCompile Include="Programming exercises2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="float,scanf사용하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="10진수_8진수,16진수_변환_출력법.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="short_long_longlong_unsigned.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="char.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
