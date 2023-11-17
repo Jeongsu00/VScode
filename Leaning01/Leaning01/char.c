@@ -17,8 +17,8 @@
 //	printf("%d \n", grade1);	// ASTII코드를 바탕으로 66을 출력
 //}
 
-//#define _CRT_SECURE_NO_WARNINGS
-//#include <Stdio.h>
+//#define _crt_secure_no_warnings
+//#include <stdio.h>
 //
 //int main() {
 //	char ch;

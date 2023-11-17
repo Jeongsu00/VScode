@@ -133,11 +133,15 @@
     <ClCompile Include="Hello World.c" />
     <ClCompile Include="Programming exercises2.c" />
     <ClCompile Include="short_long_longlong_unsigned.c" />
+    <ClCompile Include="static.c" />
+    <ClCompile Include="struct.c" />
+    <ClCompile Include="typedef_struct.c" />
     <ClCompile Include="문제풀이.c" />
     <ClCompile Include="사칙연산.c" />
     <ClCompile Include="연산자.c" />
     <ClCompile Include="증감 연산자.c" />
     <ClCompile Include="함수 추가 선언.c" />
+    <ClCompile Include="함수 추가 선언2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
